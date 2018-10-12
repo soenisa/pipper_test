@@ -1,0 +1,1 @@
+advise="Guidelines for the average adult recommend getting no more than one teaspoon of salt a day"

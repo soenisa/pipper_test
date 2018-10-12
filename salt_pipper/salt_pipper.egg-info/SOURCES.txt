@@ -1,0 +1,7 @@
+README.md
+setup.py
+salt_pipper/__init__.py
+salt_pipper.egg-info/PKG-INFO
+salt_pipper.egg-info/SOURCES.txt
+salt_pipper.egg-info/dependency_links.txt
+salt_pipper.egg-info/top_level.txt
